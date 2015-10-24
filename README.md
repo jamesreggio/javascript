@@ -50,3 +50,6 @@ I'm a tidy person and I like my code to be consistent. It is difficult for me
 to ignore syntax in a code review, so I ask that you run these rules against
 your code before contributing to one of my open-source repositories. The build
 system should run these by default.
+
+If you're reading this, you're probably annoyed with me, but that's okay. I
+love you anyway <3
