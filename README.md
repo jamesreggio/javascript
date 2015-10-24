@@ -9,21 +9,21 @@ employers.
 
 ## What's available?
 
-The repository contains *linter rules* arranged in subdirectories by
-*language* and *target*.
+The repository contains **linter rules** arranged in subdirectories by
+**language** and **target**.
 
-*Linters*:
+**Linters**:
 
 * [JSCS](http://jscs.info), for nagging people who don't use semicolons.
   (_Really?_)
 * [JSHint](http://jshint.com/), for catching potential semantic issues.
 
-*Languages:*
+**Languages:**
 
 * ES5
 * ES6
 
-*Targets:*
+**Targets:**
 
 * [Browserify](http://browserify.org), for projects that use browser globals.
 
