@@ -26,6 +26,7 @@ The repository contains **linter rules** arranged in subdirectories by
 **Targets:**
 
 * [Browserify](http://browserify.org), for projects that use browser globals.
+* [node.js](http://nodejs.org), for obvious reasons.
 
 ## How do I use this?
 

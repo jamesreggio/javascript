@@ -1,0 +1,17 @@
+{
+  "bitwise": true,
+  "debug": true,
+  "devel": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "freeze": true,
+  "latedef": true,
+  "sub": true,
+  "noarg": true,
+  "nocomma": true,
+  "node": true,
+  "nonbsp": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true
+}
