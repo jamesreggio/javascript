@@ -1,0 +1,17 @@
+{
+  "name": "javascript",
+  "version": "0.0.0",
+  "private": true,
+  "description": "JavaScript formatting rules",
+  "license": "Unlicense",
+  "author": {
+    "name": "James Reggio",
+    "email": "james.reggio@gmail.com",
+    "url": "http://regg.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamesreggio/javascript.git"
+  },
+  "homepage": "https://github.com/jamesreggio/javascript"
+}

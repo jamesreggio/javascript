@@ -1,0 +1,19 @@
+{
+  "bitwise": true,
+  "browser": true,
+  "browserify": true,
+  "debug": true,
+  "devel": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "esnext": true,
+  "freeze": true,
+  "latedef": true,
+  "sub": true,
+  "noarg": true,
+  "nocomma": true,
+  "nonbsp": true,
+  "nonew": true,
+  "undef": true,
+  "unused": true
+}
